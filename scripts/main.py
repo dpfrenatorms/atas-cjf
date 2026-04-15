@@ -17,6 +17,14 @@ import sys
 from datetime import datetime
 from pathlib import Path
 
+# Garante saída UTF-8 no terminal Windows
+if sys.stdout.encoding and sys.stdout.encoding.lower() not in ("utf-8", "utf-8-sig"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except AttributeError:
+        pass
+
 # Garante que o diretório scripts/ está no path
 sys.path.insert(0, str(Path(__file__).parent))
 
