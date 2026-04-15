@@ -1,0 +1,166 @@
+{
+  "ata": {
+    "metadata": {
+      "data": "04/03/2026",
+      "horario_inicio": "10:00",
+      "horario_fim": "17:30",
+      "local": "Brasília/DF - Presencial",
+      "orgao": "Centro Nacional de Inteligência da Justiça Federal",
+      "tipo_reuniao": "Ordinária",
+      "numero_sei": "[A PREENCHER]",
+      "coordenador": {
+        "nome": "Vânila Cardoso André de Moraes",
+        "cargo": "Juíza Federal Auxiliar da Corregedoria-Geral",
+        "tribunal": "TRF6"
+      }
+    },
+    "participantes": [
+      {
+        "nome": "Vânila Cardoso André de Moraes",
+        "cargo": "Juíza Federal Auxiliar",
+        "tribunal": "TRF6",
+        "regiao": "Nordeste",
+        "status": "Presente"
+      },
+      {
+        "nome": "Mônica Silveira Vieira",
+        "cargo": "Juíza de Direito",
+        "tribunal": "TJMG",
+        "regiao": "Sudeste",
+        "status": "Presente"
+      },
+      {
+        "nome": "Rodrigo Gonçalves de Souza",
+        "cargo": "Juiz Federal",
+        "tribunal": "TRF1",
+        "regiao": "Norte",
+        "status": "Presente"
+      },
+      {
+        "nome": "Taís Schilling Ferraz",
+        "cargo": "Desembargadora Federal",
+        "tribunal": "TRF4",
+        "regiao": "Sul",
+        "status": "Presente"
+      },
+      {
+        "nome": "Bruno dos Santos Fernandes da Silva",
+        "cargo": "Juiz Federal",
+        "tribunal": "TRF1",
+        "regiao": "Norte",
+        "status": "Presente"
+      }
+    ],
+    "temas": [
+      {
+        "numero": "NT - Tema Repetitivo 1.396",
+        "titulo": "Reconfiguração do interesse de agir e efetivação do acesso ao Judiciário",
+        "relator": "Juíza de Direito Mônica Silveira Vieira (TJMG)",
+        "resumo_apresentacao": "Apresentação sobre reconfiguração do interesse de agir e efetivação do acesso ao Judiciário, com análise de precedentes vinculantes do STJ.",
+        "discussoes": [
+          {
+            "participante": "Desembargadora Taís Schilling Ferraz",
+            "cargo": "Desembargadora Federal",
+            "tribunal": "TRF4",
+            "resumo": "Destacou que a nota está muito densa e bem fundamentada, com articulação coerente de precedentes."
+          },
+          {
+            "participante": "Juiz Federal Bruno dos Santos",
+            "cargo": "Juiz Federal",
+            "tribunal": "TRF1",
+            "resumo": "Ressaltou a importância da uniformização da jurisprudência e a necessidade de clareza nos critérios."
+          }
+        ],
+        "deliberacao": "Aprovada a Nota Técnica para submissão ao Grupo Decisório.",
+        "votacao": "Unânime"
+      },
+      {
+        "numero": "NT n. 2/2025 (REINT - TRF1)",
+        "titulo": "Orientações para o uso da Inteligência Artificial Generativa (IAGen) por usuários no Tribunal Regional Federal da 1ª Região",
+        "relator": "Juiz Federal Náiber Pontes de Almeida e Juiz Federal Rodrigo Gonçalves de Souza (TRF1)",
+        "resumo_apresentacao": "Apresentação sobre o uso de IAGen no TRF1, abordando procedimentos, limites e boas práticas para usuários do tribunal.",
+        "discussoes": [
+          {
+            "participante": "Juíza Federal Vânila Cardoso",
+            "cargo": "Coordenadora",
+            "tribunal": "TRF6",
+            "resumo": "Sugeriu a nacionalização conjunta das notas, preservando o conteúdo original e adicionando uma introdução sobre as especificidades regionais."
+          }
+        ],
+        "deliberacao": "Nacionalização conjunta das Notas Técnicas sobre IAGen, com introdução explicativa das especificidades regionais.",
+        "votacao": "Unânime"
+      }
+    ],
+    "encaminhamentos": [
+      {
+        "numero": 1,
+        "descricao": "Submeter Notas Técnicas aprovadas ao Grupo Decisório",
+        "responsavel": "Vânila Cardoso André de Moraes",
+        "cargo": "Coordenadora",
+        "prazo": "13/04/2026",
+        "prioridade": "Alta",
+        "status": "Pendente"
+      },
+      {
+        "numero": 2,
+        "descricao": "Iniciar processo de nacionalização conjunta das Notas Técnicas sobre IAGen",
+        "responsavel": "Coordenador de Nacionalização",
+        "cargo": "Coordenador",
+        "prazo": "A definir",
+        "prioridade": "Média",
+        "status": "Pendente"
+      },
+      {
+        "numero": 3,
+        "descricao": "Iniciar processo de nacionalização da Nota Técnica sobre heteroidentificação",
+        "responsavel": "Coordenador de Nacionalização",
+        "cargo": "Coordenador",
+        "prazo": "A definir",
+        "prioridade": "Média",
+        "status": "Pendente"
+      },
+      {
+        "numero": 4,
+        "descricao": "Iniciar processo de nacionalização da Nota Técnica sobre cessão de créditos em precatórios, com inclusão de controvérsias",
+        "responsavel": "Coordenador de Nacionalização",
+        "cargo": "Coordenador",
+        "prazo": "A definir",
+        "prioridade": "Média",
+        "status": "Pendente"
+      },
+      {
+        "numero": 5,
+        "descricao": "Solicitar levantamento ao NugepNac do STJ sobre demandas e precedentes relacionados a assinaturas eletrônicas e litigância predatória",
+        "responsavel": "Vânila Cardoso André de Moraes",
+        "cargo": "Coordenadora",
+        "prazo": "30/05/2026",
+        "prioridade": "Média",
+        "status": "Pendente"
+      }
+    ],
+    "normas_citadas": [
+      {
+        "tipo": "Resolução",
+        "numero": "CJF nº 499/2018",
+        "descricao": "Institui o Centro Nacional de Inteligência da Justiça Federal"
+      },
+      {
+        "tipo": "Resolução",
+        "numero": "CJF nº 834/2023",
+        "descricao": "Altera a Resolução CJF nº 499/2018"
+      },
+      {
+        "tipo": "Resolução",
+        "numero": "CJF nº 944/2025",
+        "descricao": "Altera a Resolução CJF nº 499/2018"
+      }
+    ],
+    "julgados_citados": [
+      {
+        "tribunal": "STJ",
+        "numero": "Tema Repetitivo 1.396",
+        "tema": "Reconfiguração do interesse de agir e efetivação do acesso ao Judiciário"
+      }
+    ]
+  }
+}
