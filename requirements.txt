@@ -2,3 +2,5 @@ python-docx>=0.8.11
 language-tool-python>=2.7.1
 openpyxl>=3.1.0
 requests>=2.31.0
+pypdf>=4.0.0
+yt-dlp>=2025.1.15
